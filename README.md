@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### ✍️Random Dev Meme
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src="(https://meme-api.com/gimme)" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThaiHung223&icon=0&color=0)](https://visitcount.itsvg.in)
